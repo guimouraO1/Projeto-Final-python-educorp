@@ -1,0 +1,31 @@
+[
+  {
+    "Janela de execu\u00e7\u00e3o": "2022-07-04 00:00:00 at\u00e9 2022-07-09 00:00:00",
+    "lista": [
+      {
+        "ID": 1,
+        "Descri\u00e7\u00e3o": "Importa\u00e7\u00e3o de arquivos de fundos",
+        "Data M\u00e1xima de conclus\u00e3o": "2022-07-08 23:00:00",
+        "Tempo estimado": "2 horas"
+      },
+      {
+        "ID": 2,
+        "Descri\u00e7\u00e3o": "Importa\u00e7\u00e3o de dados da Base Legada",
+        "Data M\u00e1xima de conclus\u00e3o": "2019-11-11 12:00:00",
+        "Tempo estimado": "4 horas"
+      },
+      {
+        "ID": 3,
+        "Descri\u00e7\u00e3o": "Importa\u00e7\u00e3o de dados de integra\u00e7\u00e3o",
+        "Data M\u00e1xima de conclus\u00e3o": "2022-07-04 23:00:00",
+        "Tempo estimado": "6 horas"
+      },
+      {
+        "ID": 4,
+        "Descri\u00e7\u00e3o": "Importa\u00e7\u00e3o de dados de integra\u00e7\u00e3o",
+        "Data M\u00e1xima de conclus\u00e3o": "2022-12-30 08:00:00",
+        "Tempo estimado": "9 horas"
+      }
+    ]
+  }
+]
