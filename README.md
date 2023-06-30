@@ -58,7 +58,7 @@ Exemplo de Massa de dados:
 
 Exemplo de output esperado caso da data vigente estaja dentro da data máxima dos IDs 1 e 3:
 ```txt
-[1, 3]
+[3]
 ```
 
 Exemplo de caso a data esteja fora da Janela de execução:
