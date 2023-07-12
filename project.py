@@ -37,11 +37,3 @@ ids_validos(ids_validos_para_ex)
 
 # log fim
 fim()
-
-# Querido Professor Vornei, eu alterei o arquivo json ID: 1 para que eu verificasse o ID dele com o tempo de execução além do tempo de conclusão.
-# Diante disso os IDs válidos são [3]
-#
-# if nota == 10:
-#   return print('Obrigado pelo curso!')
-# else:
-#   return print('Obrigado mesmo assim!')
